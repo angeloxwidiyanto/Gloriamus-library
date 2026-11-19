@@ -1,0 +1,6 @@
+{
+  "name": "OpusArchive",
+  "description": "Apple-inspired digital library and DRM-protected interactive studio reader for classical musical scores and musicology reference books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
